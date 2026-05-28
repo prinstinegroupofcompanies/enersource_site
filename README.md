@@ -1,3 +1,5 @@
+# enersource_site
+
 # Enersource Inc. — Corporate Solar Website
 
 Modern, responsive, highly interactive corporate website for **Enersource Inc.** (solar energy company), with clean-energy branding, strong UX/UI, animations, and accessibility basics.
@@ -11,9 +13,6 @@ Modern, responsive, highly interactive corporate website for **Enersource Inc.**
 - Swiper.js
 - Lucide icons
 - EmailJS (optional, for contact form)
-
-printf "protocol=https\nhost=github.com\n" | git credential-osxkeychain erase
-git push
 
 ## Brand + assets
 
